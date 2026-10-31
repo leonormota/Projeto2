@@ -11,20 +11,13 @@
 	<p class="destaque">O filme é conhecido pela história de amor entre Kat e Patrick.</p>
 
 
-<table border="1">
-	<tr>
-		<td>Ano</td>
-		<td>Género</td>
-		<td>Personagens principais</td>
-	</tr>
-	<tr>
-		<td>1999</td>
-		<td>comédia romântica</td>
-		<td>Kat e Patrick</td>
-	</tr>
-	</table>
-    
-	<h2>Imagem e informação</h2>
+ <ul>
+        <li><div>Ano — 1999.</div></li>
+        <li><div>Género — comédia romântica.</div></li>
+        <li><div>Personagens principais — Kat e Patrick.</div></li>
+    </ul>
+
+    <h2>Imagem e informação</h2>
 	<img src="10coisas.jpg">
 
     <p>Vê o trailer do filme:</p>
