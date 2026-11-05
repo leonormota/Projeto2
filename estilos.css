@@ -1,0 +1,26 @@
+
+body {
+    background-color: #f4f4f9;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 20px;
+}
+
+h1, h2 {
+    font-family: 'Georgia', serif;
+    color: #609e82;
+}
+
+.destaque {
+    background-color: #ffe6e6;
+    color: #1b51cf;
+    padding: 10px;
+    margin: 15px 0;
+    border-left: 4px solid #fcfafa;
+}
+li div {
+    background-color: #fcfafa;
+    padding: 8px;
+    margin-bottom: 5px;
+    border: 1px solid #ddd;
+}
