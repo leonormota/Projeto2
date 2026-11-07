@@ -1,16 +1,16 @@
-
+/* A regra CSS mais difícil de aplicar foi o margin, porque não estava a conseguir ajustar bem os espaços entre os elementos. Pedi ajuda ao Gabriel Cruz para resolver este problema */
 body {
     background-color: #f4f4f9;
     font-family: Arial, sans-serif;
     color: #333333;
     margin: 20px;
 }
-
+/* Durante os testes no browser, não estava a conseguir pôr a imagem e percebi que me faltavam aspas no código. Voltei ao Notepad++ para corrigir esses erros */
 h1, h2 {
     font-family: 'Georgia', serif;
     color: #609e82;
 }
-
+/* O atributo href serve para criar uma ligação para outra página */
 .destaque {
     background-color: #ffe6e6;
     color: #1b51cf;
